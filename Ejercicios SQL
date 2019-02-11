@@ -1,0 +1,17 @@
+/*Ejercicio 1*/
+
+SELECT * FROM emp;
+
+/*Ejercicio 2*/
+
+SELECT * FROM  dept;
+
+/*Ejercicio 3*/
+
+SELECT * FROM emp WHERE job='CLERK';
+
+/*Ejercicio 4*/
+
+SELECT * FROM emp WHERE job='CLERK' ORDER BY ename ASC ;
+
+/*Ejercicio 5*/
